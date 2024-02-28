@@ -11,9 +11,7 @@ public class double23 {
 
     public static void main(String[] args) {
 
-
-
-
+double23([2, 2]);
     }
 
 
