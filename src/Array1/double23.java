@@ -13,7 +13,8 @@ public class double23 {
 
         int[] nums = new int[] {2, 2};
 
-
+ int[] nums = new int[] {3, 3};
+       
         System.out.println(  double23(nums));
 
     }
