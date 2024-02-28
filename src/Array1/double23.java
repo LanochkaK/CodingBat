@@ -11,13 +11,17 @@ public class double23 {
 
     public static void main(String[] args) {
 
-double23([2, 2]);
+        int[] nums = new int[] {2, 2};
+
+
+        System.out.println(  double23(nums));
+
     }
 
 
 
 
-    public boolean double23(int[] nums) {
+    public static boolean double23(int[] nums) {
 
         if (nums.length <=1) {
 
